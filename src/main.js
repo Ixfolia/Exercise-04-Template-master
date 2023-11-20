@@ -1,6 +1,6 @@
 // Exercise 04: Slime World
-// Name: 
-// Date: 
+// Name: Brady Lin
+// Date: 11/17/2023
 
 let config = {
     type: Phaser.AUTO,
